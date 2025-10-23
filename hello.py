@@ -1,1 +1,1 @@
-print("Hello, Git and GitHub!")
+print("This is my first Git commit from VS Code!")
